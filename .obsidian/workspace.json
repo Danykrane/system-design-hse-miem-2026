@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4e2db71ae03bdbb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a007fef0d99ed79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc6e7dc65746068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solved_tasks/general_task/general_task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "general_task"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c540ce43ae2c0db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2af8dbb7ca09ee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9dc4c4678ea4ca8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "bc676544e7649664",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b0277ebee906412d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f7ad91ec786d07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bf795bd071ed6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f5e74b3e75c8f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solved_tasks/general_task/general_task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для general_task"
+            }
+          },
+          {
+            "id": "80dc2e662e884708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solved_tasks/general_task/general_task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из general_task"
+            }
+          },
+          {
+            "id": "3688f3cd14147193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5f989b730c0e5814",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "daa62697832a92f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solved_tasks/general_task/general_task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура general_task"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "cfc6e7dc65746068",
+  "lastOpenFiles": [
+    "HWs/hw2_practice.md",
+    "HWs/HW1.md",
+    "HWs/hw1_practice.md",
+    "HWs/hw2.md",
+    "HWs/image 3.png",
+    "Solved_tasks/general_task/general_task.md",
+    "Без названия.md",
+    "Solved_tasks/general_task",
+    "Solved_tasks"
+  ]
+}
