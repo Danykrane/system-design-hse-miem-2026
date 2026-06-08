@@ -11,10 +11,14 @@
             "id": "d56e6f9473862578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Solved_tasks/task_3/task_3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "task_3"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solved_tasks/task_3/task_3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для task_3"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solved_tasks/task_3/task_3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из task_3"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solved_tasks/Без названия.md",
+                "file": "Solved_tasks/task_3/task_3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура task_3"
             }
           }
         ]
@@ -177,17 +183,18 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "fb79cbade0b61eb8",
+  "active": "d56e6f9473862578",
   "lastOpenFiles": [
+    "Solved_tasks/task_1/task_1.md",
+    "Solved_tasks/task_3/task_3.md",
+    "Solved_tasks/Без названия.md",
     "Solved_tasks/task_4",
     "Solved_tasks/task_2/Без названия.md",
-    "Solved_tasks/Без названия.md",
     "Solved_tasks/task_3",
     "HWs/hw2.md",
     "Solved_tasks/task_2",
     "HWs/hw1_practice.md",
     "Solved_tasks/general_task/general_task.md",
-    "Solved_tasks/task_1/task_1.md",
     "Solved_tasks/task_1/Без названия.md",
     "Solved_tasks/task_1",
     "Solved_tasks/general_task",

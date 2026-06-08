@@ -280,14 +280,14 @@ flowchart TB
 
 ### 9.1 Paper Letter → Toy Order
 
-| Step | Действие | Результат |
-|---|---|---|
-| 1 | Letter сканируется | Создаётся `RawRequest` |
-| 2 | OCR распознаёт текст | Создаётся `ParsedRequest` |
-| 3 | NLP Parser извлекает child details и wishes | Создаются `ChildProfile` и `Wish` |
-| 4 | Toy Catalog сопоставляет wish с SKU | Получаем `sku_id` |
-| 5 | Order Service создаёт заказ | Создаётся `ToyOrder` |
-| 6 | Если confidence низкий | Запрос уходит в `ReviewQueue` |
+| Step | Действие                                    | Результат                         |
+| ---- | ------------------------------------------- | --------------------------------- |
+| 1    | Letter сканируется                          | Создаётся `RawRequest`            |
+| 2    | OCR распознаёт текст                        | Создаётся `ParsedRequest`         |
+| 3    | NLP Parser извлекает child details и wishes | Создаются `ChildProfile` и `Wish` |
+| 4    | Toy Catalog сопоставляет wish с SKU         | Получаем `sku_id`                 |
+| 5    | Order Service создаёт заказ                 | Создаётся `ToyOrder`              |
+| 6    | Если confidence низкий                      | Запрос уходит в `ReviewQueue`     |
 
 ### 9.2 Email → Toy Order
 
