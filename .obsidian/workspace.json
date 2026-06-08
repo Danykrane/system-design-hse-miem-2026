@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "4e2db71ae03bdbb2",
+    "id": "7c994eb58f90715a",
     "type": "split",
     "children": [
       {
-        "id": "a007fef0d99ed79c",
+        "id": "4080e6b3a4011c8d",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc6e7dc65746068",
+            "id": "d56e6f9473862578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solved_tasks/general_task/general_task.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "general_task"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c540ce43ae2c0db",
+    "id": "c536e52b98d5e82a",
     "type": "split",
     "children": [
       {
-        "id": "d2af8dbb7ca09ee8",
+        "id": "2ffed3632f35a9c4",
         "type": "tabs",
         "children": [
           {
-            "id": "d9dc4c4678ea4ca8",
+            "id": "fb79cbade0b61eb8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "bc676544e7649664",
+            "id": "202d4ec2d3958f02",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "b0277ebee906412d",
+            "id": "7cc764cccb8c10aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "2f7ad91ec786d07b",
+    "id": "f5e66cfeaa03c582",
     "type": "split",
     "children": [
       {
-        "id": "47bf795bd071ed6a",
+        "id": "32d0f4601cafe78e",
         "type": "tabs",
         "children": [
           {
-            "id": "59f5e74b3e75c8f7",
+            "id": "4caf494b87f6fad5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solved_tasks/general_task/general_task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для general_task"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "80dc2e662e884708",
+            "id": "12c6343f8d332035",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solved_tasks/general_task/general_task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из general_task"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "3688f3cd14147193",
+            "id": "80219d39c0ea1139",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "5f989b730c0e5814",
+            "id": "536410f7fba7b2b8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,18 @@
             }
           },
           {
-            "id": "daa62697832a92f0",
+            "id": "d557e7eb2a71bf7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solved_tasks/general_task/general_task.md",
+                "file": "Solved_tasks/Без названия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура general_task"
+              "title": "Структура Без названия"
             }
           }
         ]
@@ -183,15 +177,19 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cfc6e7dc65746068",
+  "active": "fb79cbade0b61eb8",
   "lastOpenFiles": [
-    "HWs/hw2_practice.md",
-    "HWs/HW1.md",
-    "HWs/hw1_practice.md",
+    "Solved_tasks/task_4",
+    "Solved_tasks/task_2/Без названия.md",
+    "Solved_tasks/Без названия.md",
+    "Solved_tasks/task_3",
     "HWs/hw2.md",
-    "HWs/image 3.png",
+    "Solved_tasks/task_2",
+    "HWs/hw1_practice.md",
     "Solved_tasks/general_task/general_task.md",
-    "Без названия.md",
+    "Solved_tasks/task_1/task_1.md",
+    "Solved_tasks/task_1/Без названия.md",
+    "Solved_tasks/task_1",
     "Solved_tasks/general_task",
     "Solved_tasks"
   ]
